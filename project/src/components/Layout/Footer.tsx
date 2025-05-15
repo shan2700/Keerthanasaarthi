@@ -75,16 +75,16 @@ const Footer: React.FC = () => {
             <ul className="space-y-4">
               <li className="flex items-start">
                 <Phone className="h-5 w-5 text-gold-400 mr-2 mt-0.5" />
-                <span className="text-gray-300">+91 98765 43210</span>
+                <span className="text-gray-300">+91 9865018649</span>
               </li>
               <li className="flex items-start">
                 <Mail className="h-5 w-5 text-gold-400 mr-2 mt-0.5" />
                 <span className="text-gray-300">info@keerthanasaarthi.com</span>
               </li>
               <li className="text-gray-300 mt-4">
-                <p>123 Temple Street</p>
-                <p>T. Nagar</p>
-                <p>Chennai, Tamil Nadu 600017</p>
+                <p>No.7 Mahasakthi Nagar</p>
+                <p>Nehru Nagar</p>
+                <p>Ramanathapuram, Tamil Nadu 600017</p>
               </li>
             </ul>
           </div>
